@@ -1,2 +1,2 @@
 #!/bin/bash
-nl -3 iacta
+find 3 /iacta
